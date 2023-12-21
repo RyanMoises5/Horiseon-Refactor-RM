@@ -2,6 +2,10 @@
 
 Student: Ryan Moises
 
+## Objective
+
+To refactor an existing website's code for consolidationn of redundant code and better readability for coders
+
 ## User Story
 
 ```
